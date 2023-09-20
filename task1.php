@@ -11,7 +11,6 @@ echo"</br>";
 
 
 //while loop
-
 function printEvenNumbersUsingWhileLoop($start, $end, $step) {
     while ($start <= $end) {
         echo $start . " ";
